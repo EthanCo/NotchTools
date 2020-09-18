@@ -26,7 +26,3 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     implementation project(':notchtools')
 }
-
-ext.GROUP="com.heiko"
-ext.VERSION_NAME=android.defaultConfig.versionName
-ext.POM_ARTIFACT_ID="notchtools"
